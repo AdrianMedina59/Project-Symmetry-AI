@@ -18,7 +18,6 @@ from typing import List
 
 from app.api import wiki_article
 from app.api import comparison
-
 from app.ai.semantic_comparison import perform_semantic_comparison
 from app.ai.llm_comparison import llm_semantic_comparison
 
